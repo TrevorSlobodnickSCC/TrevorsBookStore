@@ -44,6 +44,13 @@ Dropdown Bootstrap and it had the rest of the properties/values
 
 - Added the bootswatch name to the README.md
 
-*12:20pm*
+*12:25pm*
 
-- 
+- Added 3 projects
+
+*1:00pm*
+
+- Moved data folder to DataAccess
+- Installed Relational and SqlServer in DataAccess
+- Deleted the Migrations folder
+- Changed namespace to reflect project
