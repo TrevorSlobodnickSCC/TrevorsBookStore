@@ -1,8 +1,12 @@
-﻿##Description
+﻿## Description
 
 Trevor's Book Store
 
-##Task Log
+## Theme
+
+United - [from bootswatch](https://bootswatch.com/united/)
+
+## Task Log
 
 ***[Thursday, Nov 4, 2021]***
 
@@ -33,3 +37,9 @@ it recommended, "UseSqlServer" instead of "UseSqlServer", the red line is gone
 - Added the dropdown menu to the nav
 - Some of the code got cropped out so it wasnt working properly, but I googled
 Dropdown Bootstrap and it had the rest of the properties/values
+
+***[Friday, Nov 5, 2021]***
+
+*12:00pm*
+
+- Added the bootswatch name to the README.md
