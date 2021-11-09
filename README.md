@@ -58,5 +58,12 @@ Dropdown Bootstrap and it had the rest of the properties/values
 
 ***[Tuesday, Nov 9, 2021]***
 
+*10:00am*
+
 - Moved Models to TrevorsBooks.Models
 - Added project reference
+- I realised I was commiting under my personal account, so I changed to my school account
+- Renamed Models folder to ViewModels
+- Changed ErrorViewModel namespace
+
+*10:30am*
