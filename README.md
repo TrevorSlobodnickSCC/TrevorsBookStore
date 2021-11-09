@@ -70,3 +70,4 @@ Dropdown Bootstrap and it had the rest of the properties/values
 
 - Resolved all errors that had to do with accessing the classes that were moved
 - Built and ran the project successfully
+- Area is not appearing in the context menu, I will try updating visual studio

@@ -32,5 +32,8 @@
     <ProjectReference Include="..\TrevorsBooks.Models\TrevorsBooks.Models.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+    <ProjectReference Include="..\TrevorsBooks.Utility\TrevorsBooks.Utility.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>
