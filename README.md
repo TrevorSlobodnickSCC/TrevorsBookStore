@@ -67,3 +67,6 @@ Dropdown Bootstrap and it had the rest of the properties/values
 - Changed ErrorViewModel namespace
 
 *10:30am*
+
+- Resolved all errors that had to do with accessing the classes that were moved
+- Built and ran the project successfully
