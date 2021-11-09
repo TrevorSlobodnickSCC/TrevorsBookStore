@@ -50,7 +50,13 @@ Dropdown Bootstrap and it had the rest of the properties/values
 
 *1:00pm*
 
-- Moved data folder to DataAccess
+- Moved data folder to TrevorsBooks.DataAccess
 - Installed Relational and SqlServer in DataAccess
 - Deleted the Migrations folder
 - Changed namespace to reflect project
+- Deleted class files
+
+***[Tuesday, Nov 9, 2021]***
+
+- Moved Models to TrevorsBooks.Models
+- Added project reference

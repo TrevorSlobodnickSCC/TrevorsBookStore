@@ -25,4 +25,12 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.11" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TrevorsBooks.DataAccess\TrevorsBooks.DataAccess.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\TrevorsBooks.Models\TrevorsBooks.Models.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
