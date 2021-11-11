@@ -8,8 +8,9 @@ using Microsoft.Extensions.Logging;
 using TrevorsBookStore.Models;
 using TrevorsBookStore.Models.ViewModels;
 
-namespace TrevorsBookStore.Controllers
+namespace TrevorsBookStore.Area.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
