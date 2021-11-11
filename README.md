@@ -129,6 +129,9 @@ went back into all the files and fixed that
 - Successfully built project
 - Did not complete part 2, long story short I looked through the powerpoint again and I havent done a bunch of stuff
 
-*10:45pm*
+*11:00pm*
 
-- 
+- Completed all steps, but there is no fiction category for me. I do not remember creating it,
+and when I click the create button nothing happens.
+- Other than that, it looks exactly like the final slide in the slideshow
+- Part 2 Complete
