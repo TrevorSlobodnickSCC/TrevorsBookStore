@@ -127,4 +127,8 @@ went back into all the files and fixed that
 
 - Added UnitOfWork to Startup.cs
 - Successfully built project
-- Completed part 2
+- Did not complete part 2, long story short I looked through the powerpoint again and I havent done a bunch of stuff
+
+*10:45pm*
+
+- 

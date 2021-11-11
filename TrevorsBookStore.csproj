@@ -36,7 +36,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
     <Folder Include="Instructions\" />
   </ItemGroup>
 </Project>
