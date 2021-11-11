@@ -77,3 +77,17 @@ Dropdown Bootstrap and it had the rest of the properties/values
 - Updating did nothing, google searches show that it is not possible to do Add > Areas
 - Added new Instructions folder to hold any resources I need to complete the parts to this assignment,
 makes transitioning between machines much easier
+
+***[Wednesday, Nov 10, 2021]***
+
+*7:00pm*
+
+- Added Customers and Admin Areas to project
+- Moved the Home folder to Areas > Customer > Views > Home
+- Copied View cshtml files to proper locations
+- Successfully built/ran the project
+- Finished Part 1
+
+*7:45pm*
+
+- Started Part 2
