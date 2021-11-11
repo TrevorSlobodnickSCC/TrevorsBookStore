@@ -122,3 +122,9 @@ went back into all the files and fixed that
 
 - Finished writing SP_Call.cs
 - Finished writing IUnitOfWork.cs
+
+*10:30pm*
+
+- Added UnitOfWork to Startup.cs
+- Successfully built project
+- Completed part 2

@@ -12,6 +12,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using TrevorsBooks.DataAccess.Data;
+using TrevorsBooks.DataAccess.Repository.IRepository;
+using TrevorsBooks.DataAccess.Repository;
 
 namespace TrevorsBookStore
 {
@@ -34,6 +36,7 @@ namespace TrevorsBookStore
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
