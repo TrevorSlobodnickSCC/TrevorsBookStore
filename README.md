@@ -100,3 +100,8 @@ makes transitioning between machines much easier
 - Built the project with no errors
 - Updated database, forgot to add Server= to the first part of the
 "DefaultConnection" in appsettings.json but once added it ran fine
+
+*8:30pm*
+
+- Created the Category model and migration
+- Updated ApplicationDbContext
