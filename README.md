@@ -98,3 +98,5 @@ makes transitioning between machines much easier
 - Updated "DefaultConnection" in appsettings.json to match the slides
 - Migration Name: 20211111010147_AddDefaultIdentityMigration
 - Built the project with no errors
+- Updated database, forgot to add Server= to the first part of the
+"DefaultConnection" in appsettings.json but once added it ran fine
