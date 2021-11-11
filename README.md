@@ -105,3 +105,14 @@ makes transitioning between machines much easier
 
 - Created the Category model and migration
 - Updated ApplicationDbContext
+
+*9:00pm*
+
+- Created the repo interface and category repo interface
+- Implemented them with their own class files
+- Successfully built the project
+
+*9:30pm*
+
+- found out I had a typo in the DataAccess namespace where I forgot the s on TrevorsBooks,
+went back into all the files and fixed that
