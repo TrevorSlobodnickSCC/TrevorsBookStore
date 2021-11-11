@@ -11,9 +11,6 @@
     <None Remove="Microsoft.EntityFrameworkCore.Relational" />
     <None Remove="Instructions\" />
   </ItemGroup>
-  <ItemGroup>
-    <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.11" />

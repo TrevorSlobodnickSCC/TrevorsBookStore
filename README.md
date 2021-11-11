@@ -91,3 +91,10 @@ makes transitioning between machines much easier
 *7:45pm*
 
 - Started Part 2
+
+*8:00pm*
+
+- Removed app.db, this was created on mac because sqlite was default
+- Updated "DefaultConnection" in appsettings.json to match the slides
+- Migration Name: 20211111010147_AddDefaultIdentityMigration
+- Built the project with no errors
