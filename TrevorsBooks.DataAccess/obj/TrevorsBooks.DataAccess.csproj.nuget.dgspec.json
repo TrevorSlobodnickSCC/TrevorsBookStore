@@ -1,39 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.DataAccess/TrevorsBooks.DataAccess.csproj": {}
+    "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.DataAccess\\TrevorsBooks.DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.DataAccess/TrevorsBooks.DataAccess.csproj": {
+    "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.DataAccess\\TrevorsBooks.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.DataAccess/TrevorsBooks.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.DataAccess\\TrevorsBooks.DataAccess.csproj",
         "projectName": "TrevorsBooks.DataAccess",
-        "projectPath": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.DataAccess/TrevorsBooks.DataAccess.csproj",
-        "packagesPath": "/Users/trevorslobodnick/.nuget/packages/",
-        "outputPath": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.DataAccess/obj/",
+        "projectPath": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.DataAccess\\TrevorsBooks.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\W0740591\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/trevorslobodnick/.config/NuGet/NuGet.Config"
+          "C:\\Users\\W0740591\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Models/TrevorsBooks.Models.csproj": {
-                "projectPath": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Models/TrevorsBooks.Models.csproj"
+              "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Models\\TrevorsBooks.Models.csproj": {
+                "projectPath": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Models\\TrevorsBooks.Models.csproj"
               },
-              "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/TrevorsBooks.Utility.csproj": {
-                "projectPath": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/TrevorsBooks.Utility.csproj"
+              "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Utility\\TrevorsBooks.Utility.csproj": {
+                "projectPath": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Utility\\TrevorsBooks.Utility.csproj"
               }
             }
           }
@@ -80,29 +84,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Models/TrevorsBooks.Models.csproj": {
+    "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Models\\TrevorsBooks.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Models/TrevorsBooks.Models.csproj",
+        "projectUniqueName": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Models\\TrevorsBooks.Models.csproj",
         "projectName": "TrevorsBooks.Models",
-        "projectPath": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Models/TrevorsBooks.Models.csproj",
-        "packagesPath": "/Users/trevorslobodnick/.nuget/packages/",
-        "outputPath": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Models/obj/",
+        "projectPath": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Models\\TrevorsBooks.Models.csproj",
+        "packagesPath": "C:\\Users\\W0740591\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/trevorslobodnick/.config/NuGet/NuGet.Config"
+          "C:\\Users\\W0740591\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -135,29 +143,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/TrevorsBooks.Utility.csproj": {
+    "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Utility\\TrevorsBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/TrevorsBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Utility\\TrevorsBooks.Utility.csproj",
         "projectName": "TrevorsBooks.Utility",
-        "projectPath": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/TrevorsBooks.Utility.csproj",
-        "packagesPath": "/Users/trevorslobodnick/.nuget/packages/",
-        "outputPath": "/Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/obj/",
+        "projectPath": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Utility\\TrevorsBooks.Utility.csproj",
+        "packagesPath": "C:\\Users\\W0740591\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W0740591\\Source\\Repos\\TrevorsBookStore\\TrevorsBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/trevorslobodnick/.config/NuGet/NuGet.Config"
+          "C:\\Users\\W0740591\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -190,7 +202,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

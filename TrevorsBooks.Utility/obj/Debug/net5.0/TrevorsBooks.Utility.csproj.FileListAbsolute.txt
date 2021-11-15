@@ -34,3 +34,15 @@ C:/Users/slobt/Documents/SchoolProjects/F21/ASP/TrevorsBooks.Utility/obj/Debug/n
 /Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/obj/Debug/net5.0/TrevorsBooks.Utility.dll
 /Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/obj/Debug/net5.0/ref/TrevorsBooks.Utility.dll
 /Users/trevorslobodnick/Projects/TrevorsBookStore/TrevorsBooks.Utility/obj/Debug/net5.0/TrevorsBooks.Utility.pdb
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\bin\Debug\net5.0\TrevorsBooks.Utility.deps.json
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\bin\Debug\net5.0\TrevorsBooks.Utility.dll
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\bin\Debug\net5.0\ref\TrevorsBooks.Utility.dll
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\bin\Debug\net5.0\TrevorsBooks.Utility.pdb
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\obj\Debug\net5.0\TrevorsBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\obj\Debug\net5.0\TrevorsBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\obj\Debug\net5.0\TrevorsBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\obj\Debug\net5.0\TrevorsBooks.Utility.AssemblyInfo.cs
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\obj\Debug\net5.0\TrevorsBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\obj\Debug\net5.0\TrevorsBooks.Utility.dll
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\obj\Debug\net5.0\ref\TrevorsBooks.Utility.dll
+C:\Users\W0740591\Source\Repos\TrevorsBookStore\TrevorsBooks.Utility\obj\Debug\net5.0\TrevorsBooks.Utility.pdb
