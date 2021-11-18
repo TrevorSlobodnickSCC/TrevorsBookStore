@@ -12,7 +12,7 @@ United - [from bootswatch](https://bootswatch.com/united/)
 
 Part 1: 4 hours
 
-Part 2: 
+Part 2: 6 hours 30 minutes
 
 Part 3: 
 
@@ -54,6 +54,8 @@ it recommended, "UseSqlServer" instead of "UseSqlServer", the red line is gone
 - Some of the code got cropped out so it wasnt working properly, but I googled
 Dropdown Bootstrap and it had the rest of the properties/values
 
+_ _ _
+
 ***[Friday, Nov 5, 2021]***
 
 *12:00pm*
@@ -71,6 +73,8 @@ Dropdown Bootstrap and it had the rest of the properties/values
 - Deleted the Migrations folder
 - Changed namespace to reflect project
 - Deleted class files
+
+_ _ _
 
 ***[Tuesday, Nov 9, 2021]***
 
@@ -93,6 +97,8 @@ Dropdown Bootstrap and it had the rest of the properties/values
 - Updating did nothing, google searches show that it is not possible to do Add > Areas
 - Added new Instructions folder to hold any resources I need to complete the parts to this assignment,
 makes transitioning between machines much easier
+
+_ _ _
 
 ***[Wednesday, Nov 10, 2021]***
 
@@ -151,11 +157,17 @@ went back into all the files and fixed that
 and when I click the create button nothing happens.
 - Other than that, it looks exactly like the final slide in the slideshow
 
+_ _ _
+
 ***[Thursday, Nov 18, 2021]***
 
 Start Time: 2:45pm
-End Time: 
-Time spent today: 
+
+End Time: 5:25pm
+
+Time spent today: ~ 2 hours 30 mins
+
 Summary:
 - Added functionality to the create new category button.
 - Added functionality to the edit category button. This was giving me an error saying Model.get was returning null, after a long time of debugging I noticed I forgot to pass category into return View()
+- Added functionality to the delete button.
