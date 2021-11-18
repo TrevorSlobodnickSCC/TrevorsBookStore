@@ -26,7 +26,6 @@ namespace TrevorsBooks.DataAccess.Repository
             {
                 //save changes if not null
                 objFromDB.Name = category.Name;
-                _db.SaveChanges();
             }
         }
     }

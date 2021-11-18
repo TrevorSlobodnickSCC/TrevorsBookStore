@@ -26,14 +26,36 @@ namespace TrevorsBookStore.Areas.Admin.Controllers
             Category category = new Category();
             if(id == null)
             {
+                //create
                 return View(category);
             }
+            //edit
             category = _unitOfWork.Category.Get(id.GetValueOrDefault());
             if(category == null)
             {
                 return NotFound();
             }
-            return View();
+            return View(category);
+        }
+
+        [HttpPost] //defines post
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                if(category.Id == 0)
+                {
+                    _unitOfWork.Category.Add(category);
+                }
+                else
+                {
+                    _unitOfWork.Category.Update(category);
+                }
+                _unitOfWork.Save();
+                return RedirectToAction(nameof(Index)); //see all categories
+            }
+            return View(category);
         }
 
         //API calls here

@@ -6,6 +6,22 @@ Trevor's Book Store
 
 United - [from bootswatch](https://bootswatch.com/united/)
 
+## Time
+
+***Time Spent on project***
+
+Part 1: 4 hours
+
+Part 2: 
+
+Part 3: 
+
+Part 4: 
+
+Part 5:
+
+Total Time Spent: 
+
 ## Task Log
 
 ***[Thursday, Nov 4, 2021]***
@@ -134,10 +150,12 @@ went back into all the files and fixed that
 - Completed all steps, but there is no fiction category for me. I do not remember creating it,
 and when I click the create button nothing happens.
 - Other than that, it looks exactly like the final slide in the slideshow
-- Part 2 Complete
 
 ***[Thursday, Nov 18, 2021]***
 
 Start Time: 2:45pm
 End Time: 
 Time spent today: 
+Summary:
+- Added functionality to the create new category button.
+- Added functionality to the edit category button. This was giving me an error saying Model.get was returning null, after a long time of debugging I noticed I forgot to pass category into return View()
