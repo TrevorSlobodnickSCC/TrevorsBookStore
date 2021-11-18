@@ -135,3 +135,9 @@ went back into all the files and fixed that
 and when I click the create button nothing happens.
 - Other than that, it looks exactly like the final slide in the slideshow
 - Part 2 Complete
+
+***[Thursday, Nov 18, 2021]***
+
+Start Time: 2:45pm
+End Time: 
+Time spent today: 
