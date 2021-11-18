@@ -24,7 +24,7 @@ namespace TrevorsBookStore.Areas.Admin.Controllers
         public IActionResult Upsert(int? id)
         {
             Category category = new Category();
-            if(id === null)
+            if(id == null)
             {
                 return View(category);
             }
