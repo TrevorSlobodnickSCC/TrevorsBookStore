@@ -171,3 +171,16 @@ Summary:
 - Added functionality to the create new category button.
 - Added functionality to the edit category button. This was giving me an error saying Model.get was returning null, after a long time of debugging I noticed I forgot to pass category into return View()
 - Added functionality to the delete button.
+
+_ _ _
+
+***[Saturday, Nov 20, 2021]***
+
+Start Time: 6:00pm
+
+End Time: 
+
+Time spent today: 
+
+Summary:
+- 
