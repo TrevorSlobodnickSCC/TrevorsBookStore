@@ -183,4 +183,5 @@ End Time:
 Time spent today: 
 
 Summary:
+- Added Cover Type Model
 - 
