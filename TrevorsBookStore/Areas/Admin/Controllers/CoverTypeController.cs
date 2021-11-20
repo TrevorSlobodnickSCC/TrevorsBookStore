@@ -8,6 +8,7 @@ using TrevorsBooks.Models;
 
 namespace TrevorsBookStore.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CoverTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
