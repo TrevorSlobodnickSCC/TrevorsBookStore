@@ -184,4 +184,4 @@ Time spent today:
 
 Summary:
 - Added Cover Type Model
-- 
+- Added CoverType repository, Migration (20211120232721_AddCoverTypeToDB), and updated the database
