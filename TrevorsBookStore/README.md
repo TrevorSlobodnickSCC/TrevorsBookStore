@@ -186,3 +186,4 @@ Summary:
 - Added Cover Type Model
 - Added CoverType repository, Migration (20211120232721_AddCoverTypeToDB), and updated the database
 - Added CRUD for CoverType
+- Added covertype.js instead of category.js (swapped category for covertype in the script)
