@@ -21,11 +21,11 @@ namespace TrevorsBooks.DataAccess.Repository
         {
             //use .NET LINQ to retrieve the first or default category object
             //then pass the id as a generic entity which matches the category ID
-            var objFromDB = _db.Categories.FirstOrDefault(s => s.Id == coverType.Id);
+            var objFromDB = _db.CoverType.FirstOrDefault(s => s.Id == coverType.Id);
             if (objFromDB != null)
             {
                 //save changes if not null
-                objFromDB.Name = category.Name;
+                objFromDB.Name = coverType.Name;
             }
         }
     }
