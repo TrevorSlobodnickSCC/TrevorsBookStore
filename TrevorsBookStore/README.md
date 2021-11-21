@@ -14,7 +14,7 @@ Part 1: 4 hours
 
 Part 2: 6 hours 30 minutes
 
-Part 3: 
+Part 3: 1 hour 30 minutes (ongoing)
 
 Part 4: 
 
@@ -178,9 +178,9 @@ _ _ _
 
 Start Time: 6:00pm
 
-End Time: 
+End Time: 7:30pm
 
-Time spent today: 
+Time spent today: ~ 1 hour 30 minutes
 
 Summary:
 - Added Cover Type Model
@@ -190,3 +190,4 @@ Summary:
 - Added Product Model
 - Added Product Migration (20211121000632_AddProductToDB) and updated the database
 - Added Required statements to the requested fields in the Product Model and applied migration (20211121001118_AddValidationToProduct) and then updated the database
+- Added Product to the repository
