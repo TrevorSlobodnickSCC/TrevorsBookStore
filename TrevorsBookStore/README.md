@@ -189,3 +189,4 @@ Summary:
 - Added covertype.js instead of category.js (swapped category for covertype in the script)
 - Added Product Model
 - Added Product Migration (20211121000632_AddProductToDB) and updated the database
+- Added Required statements to the requested fields in the Product Model and applied migration (20211121001118_AddValidationToProduct) and then updated the database
