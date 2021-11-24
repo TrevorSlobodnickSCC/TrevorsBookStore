@@ -191,3 +191,16 @@ Summary:
 - Added Product Migration (20211121000632_AddProductToDB) and updated the database
 - Added Required statements to the requested fields in the Product Model and applied migration (20211121001118_AddValidationToProduct) and then updated the database
 - Added Product to the repository
+
+_ _ _
+
+***[Wednesday, Nov 24, 2021]***
+
+Start Time: 5:00pm
+
+End Time: 
+
+Time spent today: 
+
+Summary:
+- 
