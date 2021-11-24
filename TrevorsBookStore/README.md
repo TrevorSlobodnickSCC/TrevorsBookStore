@@ -14,7 +14,7 @@ Part 1: 4 hours
 
 Part 2: 6 hours 30 minutes
 
-Part 3: 1 hour 30 minutes (ongoing)
+Part 3: 3 hours (ongoing?)
 
 Part 4: 
 
@@ -198,10 +198,11 @@ _ _ _
 
 Start Time: 5:00pm
 
-End Time: 
+End Time: 6:30pm
 
-Time spent today: 
+Time spent today: 1 hour 30 minutes
 
 Summary:
 - Added Product Controller/Index View, can now see the product list page but I received an exception (which was noted in the slides)
 - Created the Create/View/Update Product page
+- Section 3 is done but I am still getting an exception when clicking products in the nav
