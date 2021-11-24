@@ -204,3 +204,4 @@ Time spent today:
 
 Summary:
 - Added Product Controller/Index View, can now see the product list page but I received an exception (which was noted in the slides)
+- Created the Create/View/Update Product page
