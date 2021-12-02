@@ -10,45 +10,32 @@ United - [from bootswatch](https://bootswatch.com/united/)
 
 ***Time Spent on project***
 
-Part 1: 4 hours
+Current Time Spent: 15 hours 30 minutes
 
-Part 2: 6 hours 30 minutes
-
-Part 3: 3 hours (ongoing?)
-
-Part 4: 
-
-Part 5:
-
-Total Time Spent: 
+Total Time Spent:
 
 ## Task Log
 
 ***[Thursday, Nov 4, 2021]***
 
-*11:45AM*
+Start Time: 11:00am
 
+End Time: 1:00pm
+
+Time spent today: 2 hours
+
+Summary:
 - Created the project
 - Made the changes in Startup.cs
 - One of the changes caused an error, UseSqlServer, there is a red line underneath and on hovering,
 says that it cannot be found, I will try installing the SqlServer package later to see if that fixes the issue
 - Created a git repository, linked it to github
-
-*12:15PM*
-
 - Installed the SqlServer Package
 - After installing the package, I hovered over the error again and it displayed the same message,
 but this time I had the option "Show Potential Fixes". I clicked that and clicked on the first fix
 it recommended, "UseSqlServer" instead of "UseSqlServer", the red line is gone
-
-*12:30PM*
-
-- Got my style from bootswatch
+- Got my style from bootswatch (united)
 - Made all necessary style changes in the project
-- Successfully built/ran the project
-
-*12:45PM*
-
 - Linked additional stylesheets and scripts in _Layout.cshtml
 - Added the dropdown menu to the nav
 - Some of the code got cropped out so it wasnt working properly, but I googled
@@ -58,16 +45,15 @@ _ _ _
 
 ***[Friday, Nov 5, 2021]***
 
-*12:00pm*
+Start Time: 12:00pm
 
+End Time: 1:00pm
+
+Time spent today: 1 hour
+
+Summary:
 - Added the bootswatch name to the README.md
-
-*12:25pm*
-
 - Added 3 projects
-
-*1:00pm*
-
 - Moved data folder to TrevorsBooks.DataAccess
 - Installed Relational and SqlServer in DataAccess
 - Deleted the Migrations folder
@@ -78,84 +64,47 @@ _ _ _
 
 ***[Tuesday, Nov 9, 2021]***
 
-*10:00am*
+Start Time: 10:00am
 
+End Time: 11:30am
+
+Time spent today: 1 hour 30 minutes
+
+Summary:
 - Moved Models to TrevorsBooks.Models
-- Added project reference
 - I realised I was commiting under my personal account, so I changed to my school account
 - Renamed Models folder to ViewModels
 - Changed ErrorViewModel namespace
-
-*10:30am*
-
-- Resolved all errors that had to do with accessing the classes that were moved
-- Built and ran the project successfully
-- Area is not appearing in the context menu, I will try updating visual studio
-
-*11:30am*
-
-- Updating did nothing, google searches show that it is not possible to do Add > Areas
-- Added new Instructions folder to hold any resources I need to complete the parts to this assignment,
-makes transitioning between machines much easier
+- Officially switched to working on a Windows computer, no more Mac
 
 _ _ _
 
 ***[Wednesday, Nov 10, 2021]***
 
-*7:00pm*
+Start Time: 7:00pm
 
+End Time: 11:00pm
+
+Time spent today: 4 hours
+
+Summary:
 - Added Customers and Admin Areas to project
 - Moved the Home folder to Areas > Customer > Views > Home
 - Copied View cshtml files to proper locations
-- Successfully built/ran the project
-- Finished Part 1
-
-*7:45pm*
-
-- Started Part 2
-
-*8:00pm*
-
 - Removed app.db, this was created on mac because sqlite was default
 - Updated "DefaultConnection" in appsettings.json to match the slides
 - Migration Name: 20211111010147_AddDefaultIdentityMigration
 - Built the project with no errors
 - Updated database, forgot to add Server= to the first part of the
 "DefaultConnection" in appsettings.json but once added it ran fine
-
-*8:30pm*
-
-- Created the Category model and migration
-- Updated ApplicationDbContext
-
-*9:00pm*
-
+- Created the Category model and migration, Updated ApplicationDbContext
 - Created the repo interface and category repo interface
 - Implemented them with their own class files
-- Successfully built the project
-
-*9:30pm*
-
 - found out I had a typo in the DataAccess namespace where I forgot the s on TrevorsBooks,
 went back into all the files and fixed that
-- Finished writing ISP_Call.cs 
-
-*10:00pm*
-
-- Finished writing SP_Call.cs
-- Finished writing IUnitOfWork.cs
-
-*10:30pm*
-
+- Finished writing ISP_Call.cs, SP_Call.cs, IUnitOfWork.cs
 - Added UnitOfWork to Startup.cs
-- Successfully built project
-- Did not complete part 2, long story short I looked through the powerpoint again and I havent done a bunch of stuff
-
-*11:00pm*
-
-- Completed all steps, but there is no fiction category for me. I do not remember creating it,
-and when I click the create button nothing happens.
-- Other than that, it looks exactly like the final slide in the slideshow
+- Part 2 completed
 
 _ _ _
 
@@ -206,3 +155,19 @@ Summary:
 - Added Product Controller/Index View, can now see the product list page but I received an exception (which was noted in the slides)
 - Created the Create/View/Update Product page
 - Section 3 is done but I am still getting an exception when clicking products in the nav
+
+_ _ _
+
+***[Thursday, Dec 2, 2021]***
+
+Start Time: 1:00pm
+
+End Time: 2:00pm
+
+Time spent today: 1 hour 30 minutes
+
+Summary:
+- Fixed the exception in the Product Upsert. The problem was that it was looking for a property named " CoverType", so I had to remove the space in ProductController
+- I also had to change the column names of the items that were not displaying in the product.js file
+- Also I did all of part 4 in part 3, so all of my commits are there
+- took time to edit previous task log entries so they are easier to read and take up less space
