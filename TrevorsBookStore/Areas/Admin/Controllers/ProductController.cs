@@ -82,7 +82,7 @@ namespace TrevorsBookStore.Areas.Admin.Controllers
         public IActionResult GetAll()
         {
             //return notfound
-            var allobj = _unitOfWork.Product.GetAll(includeProperties: "Category, CoverType");
+            var allobj = _unitOfWork.Product.GetAll(includeProperties: "Category,CoverType");
             return Json(new { data = allobj });
         }
 
