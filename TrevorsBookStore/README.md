@@ -10,9 +10,7 @@ United - [from bootswatch](https://bootswatch.com/united/)
 
 ***Time Spent on project***
 
-Current Time Spent: 15 hours 30 minutes
-
-Total Time Spent:
+Total Time Spent: 16 hours
 
 ## Task Log
 
@@ -171,3 +169,18 @@ Summary:
 - I also had to change the column names of the items that were not displaying in the product.js file
 - Also I did all of part 4 in part 3, so all of my commits are there
 - took time to edit previous task log entries so they are easier to read and take up less space
+
+_ _ _
+
+***[Thursday, Dec 2, 2021]***
+
+Start Time: 11:00pm
+
+End Time: 11:30pm
+
+Time spent today: 30 minutes
+
+Summary:
+- I got the products to display on the home page with no exceptions (I was getting one at school)
+- No images were displaying, so I looked into it and found out that I wasnt saving the image url,
+once I made those changes, the images are now being saved and deleted properly.

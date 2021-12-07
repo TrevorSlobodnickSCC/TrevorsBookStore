@@ -5,8 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using TrevorsBookStore.Models;
+using TrevorsBooks.Models;
 using TrevorsBookStore.Models.ViewModels;
+using TrevorsBooks.DataAccess.Repository.IRepository;
 
 namespace TrevorsBookStore.Area.Customer.Controllers
 {
@@ -14,15 +15,18 @@ namespace TrevorsBookStore.Area.Customer.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IUnitOfWork _unifOfWork;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IUnitOfWork unifOfWork)
         {
             _logger = logger;
+            _unifOfWork = unifOfWork;
         }
 
         public IActionResult Index()
         {
-            return View();
+            IEnumerable<Product> productList = _unifOfWork.Product.GetAll(includeProperties: "Category,CoverType");
+            return View(productList);
         }
 
         public IActionResult Privacy()
